@@ -2,5 +2,8 @@
 {
     "files.autoSave": "onWindowChange",
     "editor.tabSize": 2,
-    "window.zoomLevel": 2
+    "window.zoomLevel": 2,
+    "python.linting.pylintArgs": [
+        "--dsabled=C"
+    ]
 }
