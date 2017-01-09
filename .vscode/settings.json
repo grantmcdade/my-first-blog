@@ -1,9 +1,8 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-    "files.autoSave": "onWindowChange",
+    "files.autoSave": "onFocusChange",
     "editor.tabSize": 2,
-    "window.zoomLevel": 2,
-    "python.linting.pylintArgs": [
-        "--dsabled=C"
-    ]
+    "window.zoomLevel": 2
+,
+"python.pythonPath": "c:/Users/Grant/Django/myvenv/scripts/python.exe"
 }
